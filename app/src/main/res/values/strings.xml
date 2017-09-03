@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Practica1.2</string>
+    <string name="loggin">Loggin</string>
+    <string name="formulario">Registro</string>
+    <string name="password">Contraseña</string>
+    <string name="rpassword">Repetit Contraseña</string>
+    <string name="mail">Correo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="lnacimiento">Lugar de Nacimiento</string>
+    <string name="cine">Cine</string>
+    <string name="dormir">Dormir</string>
+    <string name="comer">Comer</string>
+    <string name="bailar">Bailar</string>
+    <string name="sexo">Sexo: </string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="informacion">Informción Registrada:</string>
+    <string name="fechan">Fecha de Nacimiento</string>
+
+    <string-array name="ciudades">
+        <item>Armenia</item>
+        <item>Barranquilla</item>
+        <item>Bogotá</item>
+        <item>Bucaramanga</item>
+        <item>Cali</item>
+        <item>Cartagena</item>
+        <item>Ibagué</item>
+        <item>Quindio</item>
+        <item>Manizales</item>
+        <item>Medellin</item>
+        <item>Pasto</item>
+        <item>Pereira</item>
+    </string-array>
+
+</resources>
+
+
